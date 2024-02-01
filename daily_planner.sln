@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{A3595E71-2F64-48A5-809E-7835CED94703}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daily-planner", "WindowsFormsApp1\daily-planner.csproj", "{A3595E71-2F64-48A5-809E-7835CED94703}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
