@@ -1,1 +1,1 @@
-simple version of d-planner with logs
+simple version of d-planner with logs.
